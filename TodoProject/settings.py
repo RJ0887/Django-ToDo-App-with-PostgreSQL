@@ -28,7 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     'django-to-do-app-with-postgre-sql-djangotodo.apps-crc.testing',
     '127.0.0.1',
-    '*'
+    '*',
 ]
 
 
